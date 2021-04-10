@@ -1,0 +1,2 @@
+# BGNANBOT
+Gunakan bot sepuasnya
